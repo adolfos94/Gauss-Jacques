@@ -1,0 +1,34 @@
+{
+  "name": "gauss-jacques",
+  "version": "1.2.1",
+  "description": "Method to obtain modular inverse matrices sized n x n considering computational efficiency and applications in symmetric cryptography.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://adolfo_s94@bitbucket.org/adolfo_s94/gauss-jacques.git"
+  },
+  "keywords": [
+    "gauss-jacques",
+    "security",
+    "cryptography",
+    "encryption",
+    "modular inverse",
+    "matrix"
+  ],
+  "bugs": {
+    "url": "https://bitbucket.org/adolfo_s94/gauss-jacques/issues",
+    "email": "adolfo2794@gmail.com"
+  },
+  "contributors": [
+    "Fausto Abraham Jacques García <jacques@uaq.edu.mx>"
+  ],
+  "author": "Adolfo Solis <adolfo2794@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^5.6.0",
+    "save": "^2.3.3"
+  }
+}
