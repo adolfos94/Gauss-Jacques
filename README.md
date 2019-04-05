@@ -47,7 +47,7 @@ console.log(invK);
 
 The main function is:
 
-<img src="https://bitbucket.org/adolfo_s94/gauss-jacques/raw/a6c723de9ccb6b283384ad3b5aaa79340658cb3b/carbon.png">
+<img src="https://github.com/adolfos94/Gauss-Jacques/blob/master/carbon.png?raw=true">
 
 
 ## Contributing
